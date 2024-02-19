@@ -1,0 +1,28 @@
+h1{
+	text-align: center;
+	
+	
+}	
+html{
+	background: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1614380476_4-p-fon-svetlo-fioletovii-nezhnii-4.jpg)
+}
+.menu {
+	display: flex;
+}
+.menu li a {
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 20px;
+	letter-spacing: 0.5em;
+}
+.menu li a{
+	margin-right: 60px;
+}
+header a {
+	color: #fff;
+}
+.container  {
+	
+	align-items: center;
+
+}
